@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{AF4BBDC6-877F-4E81-B7A0-A4C080536616}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChessGame-DataProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChessGame-DataProject/Chess/ChessMatch.cs">
+    <Files>
+      <File FileName="ChessGame-DataProject/Program.cs" Line="1" Column="14" />
+      <File FileName="ChessGame-DataProject/Chess/ChessMatch.cs" Line="784" Column="30" />
+      <File FileName="ChessGame-DataProject/Menu.cs" Line="11" Column="48" />
+      <File FileName="ChessGame-DataProject/Driver.cs" Line="64" Column="53" />
+      <File FileName="ChessGame-DataProject/Board/Piece.cs" Line="1" Column="1" />
+      <File FileName="ChessGame-DataProject/Chess/ChessPosition.cs" Line="1" Column="1" />
+      <File FileName="ChessGame-DataProject/Screen.cs" Line="135" Column="1" />
+      <File FileName="ChessGame-DataProject/Pieces/King.cs" Line="1" Column="1" />
+      <File FileName="ChessGame-DataProject/Pieces/Horse.cs" Line="1" Column="1" />
+      <File FileName="ChessGame-DataProject/Pieces/Bishop.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChessGame-DataProject" expanded="True">
+            <Node name="ChessGame-DataProject" expanded="True">
+              <Node name="Board" expanded="True" />
+              <Node name="Chess" expanded="True">
+                <Node name="ChessMatch.cs" selected="True" />
+              </Node>
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Pieces" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/bin/Debug/net5.0/ChessGame-DataProject.deps.json
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/bin/Debug/net5.0/ChessGame-DataProject.runtimeconfig.json
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/bin/Debug/net5.0/ChessGame-DataProject.runtimeconfig.dev.json
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/bin/Debug/net5.0/ChessGame-DataProject.dll
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/bin/Debug/net5.0/ref/ChessGame-DataProject.dll
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/bin/Debug/net5.0/ChessGame-DataProject.pdb
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/obj/Debug/net5.0/ChessGame-DataProject.csproj.AssemblyReference.cache
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/obj/Debug/net5.0/ChessGame-DataProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/obj/Debug/net5.0/ChessGame-DataProject.AssemblyInfoInputs.cache
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/obj/Debug/net5.0/ChessGame-DataProject.AssemblyInfo.cs
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/obj/Debug/net5.0/ChessGame-DataProject.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/obj/Debug/net5.0/ChessGame-DataProject.dll
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/obj/Debug/net5.0/ref/ChessGame-DataProject.dll
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/obj/Debug/net5.0/ChessGame-DataProject.pdb
+/Users/user/Documents/Cours/S5/ Data Structure & Algorithm/ChessGame-DataProject/ChessGame-DataProject/obj/Debug/net5.0/ChessGame-DataProject.genruntimeconfig.cache

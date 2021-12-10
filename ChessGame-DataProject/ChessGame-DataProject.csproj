@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>ChessGame_DataProject</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Pieces\" />
+    <None Remove="Chess\" />
+    <None Remove="Board\" />
+    <None Remove="Exceptions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pieces\" />
+    <Folder Include="Chess\" />
+    <Folder Include="Board\" />
+    <Folder Include="Exceptions\" />
+  </ItemGroup>
+</Project>
